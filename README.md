@@ -11,7 +11,7 @@
 
 ## Requirements and materials
 Bill of materials: 
-- An Arduino (this proyects uses Arduino Uno which means it can control up to 6 irrigators, to control more an Arduino Mega can be used)
+- An Arduino (this project uses Arduino Uno which means it can control up to 6 irrigators, to control more an Arduino Mega can be used)
 - A plant 
 - A 9V-  DC, 1 amp power transformer for the Arduino
 - 2-conductor, low voltage wire (22–24 AWG)
@@ -33,3 +33,9 @@ Bill of materials:
   - A 12V DC 2-port water/air solenoid valve
   - About a meter of 6mm outside diameter flexible nylon tube 
   - A 2-liter beverage bottle 
+  
+## Build instructions 
+
+## Usage 
+
+## Team 
