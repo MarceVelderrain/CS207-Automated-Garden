@@ -19,8 +19,10 @@ Bill of materials:
 - 8 red LEDs 
 - 8 blue LEDs 
 - 9 green LEDs 
+- 15 560 ohm resistors
 - Between 1 and 6 moisture sensor (if you're using moisture pre-built moisture sensors)
 - Hot glue gun 
+- 2 breadboards
 - To build your own moisture sensors you'll need the following material for each sensor: 
   - A 10 kohm resistor 
   - 2-conductor, low voltage wire (22–24 AWG)
@@ -38,7 +40,7 @@ Bill of materials:
   - A 2-liter beverage bottle 
   
 ## Build instructions 
-To create your own moisture sensor you should follow the following steps: 
+To create your own moisture sensor you should follow this steps: 
 1. Take the two galvanized nails place them parallel to each other, use the hot glue gun to ensure that the nails don´t touch each other. 
 2. Cut about 57mm (2.25") of the 15mm outside diameter clear vinyl tube this will be used as a mold for the sensor, also cut along the tube (this is so the sensor is easier to unmold in step ). 
 3. Use the adhesive tape to unite the paralel cut you just made from the outside and to seal one of the ends of the tube. 
@@ -50,6 +52,18 @@ To create your own moisture sensor you should follow the following steps:
 9. Tke the moisture sensor out of the mold and let it dry until it is completly dry. 
 10. Take a piece of the 2 conductor wire, make it long enough so that it'll reach your the breadboard from the plant or plants. 
 11. Trim the wires, solder them to the top of the nails and let it dry. 
+
+To create the water reservoir follow this steps: 
+1. Drill a hole of 6mm at the bottom of the container you'll use as the reservoir. 
+2. Pass the 6mm nylon tube through the hole and seal it with hot glue, if possible from both sides. 
+3. If you are feeding more than 1 plant from that reservoir cut the tube at around 10 cm and use as many Ts as necessary so that there are as many free tubes as there are plants. 
+4. Conect a solenoid valve to a free tube and another tube(this tube should be long enough that the tip can be burried on the plant's soil) to the plant, repeat this for each plant. 
+5. If the container you are using is closed from the upper end drill a hole so that air can get in as the water comes out of the reservoir. 
+
+To create the ilumination: 
+1. Use one of the breadboards to place the LEDS, on one side place all the green LEDs and on the other alternate between re and blue LEDs. 
+2. Connect the positive pin of the LEDs to 5 volts and the negative pin to a 560 ohm resistor that connects to ground. 
+
 
 ## Usage 
 
