@@ -3,13 +3,14 @@
 - /src - To be able to run one must have the Arduino IDE.
 - /hardware 
 - /build - Here are the different code versions for the project, they are ordered by creation date as YYYY/MM/DD. 
-- /libraries 
-- /examples 
-- /img - This is where the image files for this readme are!
+- /images - This is where the image files for this readme are!
 - /LICENSE - The license file.
 - /README.md  
 
 ## Requirements and materials
+Dependencies:<br />
+To run this project you'll need to have the Arduino IDE installed on your computer https://www.arduino.cc/en/Main/Software <br />
+<br />
 Bill of materials: 
 - An Arduino (this project uses Arduino Uno which means it can control up to 6 irrigators, to control more an Arduino Mega can be used)
 - Between 1 and 6 plants 
