@@ -1,6 +1,6 @@
 /* Created on March 22nd, 2018
  *  @uthor Marcela Velderrain Saenz 
- * This is sthe sketch for 1 irrigator and no LEDs, this is also a usefull way to 
+ * This is the sketch for 1 irrigator and, this is also a useful way to 
  * test your solenoid valeves and moisture sensors are working.
 */
 
