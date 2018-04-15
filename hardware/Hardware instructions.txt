@@ -1,0 +1,6 @@
+- For one irrigator and no illumination use the diagram called Projectpic10.png 
+- For one irrigator and illumination use the diagram called Projectpic11.png
+- For two irrigators and no illumination use the diagram called Projectpic15.png 
+- For two irrigators and illumination use the diagram called Projectpic14.png
+- For three irrigators and no illumination use the diagram called Projectpic16.png 
+- For three irrigators and illumination use the diagram called Projectpic17.png
