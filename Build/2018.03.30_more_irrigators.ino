@@ -1,12 +1,12 @@
 /* Created on March 30th, 2018
  *  @uthor Marcela Velderrain Saenz 
- *  This is sthe sketch for 2 or more irrigators. 
+ *  This is the sketch for two or more irrigators. 
  *  This works for two plants that are "equally thirsty",  
  *  meaning that they will receive the same amount of water when 
  *  irrigated. 
 */
 
-// Analog pins recive data from moisture sensor
+// Analog pins receive data from the moisture sensors
 int sensorPin[] = {A0, A1, A2, A3, A4, A5};
 // Digital pins for valves  
 int valvePin[] = {8,9,10,11,12,13};
@@ -17,10 +17,10 @@ int valvePin[] = {8,9,10,11,12,13};
 
 int a=2; 
 
-const int dryThreshold = 900; // This is the treshold that indicates the solenoid
+const int dryThreshold = 900; // This is the threshold that indicates the solenoid
                               // valve to open. This threshold depends on the plant 
                               // to feed.
-const long sampleInterval = 600; // This value will be how much the sensor will wait 
+const long sampleInterval = 6000000000; // This value will be how much the sensor will wait 
                                  // until it senses again, since soil dries up 
                                  // slowly this value can be big.
 const int irrigationTime = 5000; // This value will determine how long the valve is 
